@@ -14,8 +14,8 @@
     "languageSelectorAria": "Select language"
   },
   "home": {
-    "bannerTitleLine1": "ERNI",
-    "bannerTitleLine2": "Swiss software engineering",
+    "bannerTitleLine1": "Engineering trust",
+    "bannerTitleLine2": "in the age of AI",
     "guessWhoTitle": "Play \"Guess who\" and find your caricature!",
     "guessWhoParagraph1": "If you visited our stand and had your portrait taken by our robot, now's the time to find your cartoon alter ego.<br />Play our \"Guess Who,\" spot your caricature among the crowd, and download your digital twin.",
     "guessWhoParagraph2": "Note: there's a high chance you'll laugh when you see your own face in pixel-perfect form.",
@@ -33,9 +33,9 @@
     "videoGamesFireImageAlt": "Fire or Fired — office chaos game artwork"
   },
   "jobs": {
-    "title": "Unlock your potential<br />and become an ERNIan.",
+    "title": "Robotics<br />& Manufacturing",
     "description": "We are looking for people like you, ready to grow and eager to take on challenging projects to go even further.",
-    "cta": "View job opportunities"
+    "cta": "Discover what we do"
   },
   "whoIsWho": {
     "title": "Guess who",

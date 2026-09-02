@@ -7,7 +7,7 @@ import LanguageSelector from './LanguageSelector';
 import {useTranslations} from 'next-intl';
 import {trackOutboundLink} from '@/lib/analytics';
 
-const erniLogoHref = 'https://www.betterask.erni/';
+const erniLogoHref = 'https://www.betterask.erni/ch-en/';
 
 export default function AppBarComponent() {
   const t = useTranslations('header');
@@ -51,7 +51,7 @@ export default function AppBarComponent() {
               />
             </a>
           </Box>
-          <LanguageSelector />
+          {/* <LanguageSelector /> */}
         </Container>
       </AppBar>
     </Box>
