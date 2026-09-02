@@ -15,7 +15,7 @@ export default function FooterBanner() {
       <div 
         className="absolute inset-0 bg-cover bg-center"
         style={{
-          backgroundImage: 'url(/footerImage.jpg)'
+          backgroundImage: 'url(https://www.betterask.erni/wp-content/uploads/2023/12/rene-bohmer-YeUVDKZWSZ4-unsplash-scaled.jpg)'
         }}
       />
       <div 
